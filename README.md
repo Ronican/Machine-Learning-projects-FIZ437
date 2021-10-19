@@ -5,7 +5,7 @@ FIZ437E / 2021-2022 Fall / Group #7 / Roni Can Şahin
 
 Group Members:
 
-1. Roni Can Şahin
+1. Roni Can Şahin @Ronican
 2. Tolga Karakaya
 3. Eda Vatansever
 
